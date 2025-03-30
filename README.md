@@ -28,9 +28,9 @@ A Discord bot for competitive osu! challenges with automatic score tracking.
 
 ## Commands :clipboard:
 
-!challenge @user [std/taiko/ctb/mania] - Start a 1v1 match
-!wins [@user] - Check player victories  
-!leaderboard - Show top 10 rankings
+### !challenge @user [std/taiko/ctb/mania] - Start a 1v1 match
+### !wins [@user] - Check player victories  
+### !leaderboard - Show top 10 rankings
 
 ## :mobile_phone: Application Installation Guide
 
