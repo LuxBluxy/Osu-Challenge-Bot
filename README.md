@@ -32,7 +32,7 @@ A Discord bot for competitive osu! challenges with automatic score tracking.
 ### !wins [@user] - Check player victories  
 ### !leaderboard - Show top 10 rankings of the current server
 
-## :mobile_phone: Application Installation Guide
+## 📱 Application Installation Guide
 
 ### **Method 1: Standard Bot Invite**
 1. Use this invite link:  
