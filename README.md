@@ -41,13 +41,13 @@ A Discord bot for competitive osu! challenges with automatic score tracking.
 ### **Method 2: Internal App Integration**
 If you want to add it as an internal application:
 
-1. **Go to Server Settings** → **Integrations**  
+1. **Click the bot profile** → **Select add application**  
    ![Step 1](https://i.imgur.com/V6nUNxI.png) 
 
-2. **Click "Add Application"**  
+2. **Click "Add to my Application"**  
    ![Step 2](https://i.imgur.com/tdKivnX.png) 
 
-3. **Search for "Osu Challenge Bot"**  
+3. **Click Autorize"**  
    ![Step 3](https://i.imgur.com/VaIoOq5.png) 
 
 4. **Grant these permissions**:  
