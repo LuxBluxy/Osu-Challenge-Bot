@@ -36,7 +36,8 @@ A Discord bot for competitive osu! challenges with automatic score tracking.
 
 ### **Method 1: Standard Bot Invite**
 1. Use this invite link:  
-   `[[[https://discord.com/api/oauth2/authorize?client_id=1355925868563660911&permissions=274878032960&scope=bot%20applications.commands](https://discord.com/oauth2/authorize?client_id=1355925868563660911)](https://discord.com/oauth2/authorize?client_id=1355925868563660911)](https://discord.com/oauth2/authorize?client_id=1355925868563660911)`  
+[Link](https://discord.com/oauth2/authorize?client_id=1355925868563660911)
+
   
 ### **Method 2: Internal App Integration**
 If you want to add it as an internal application:
