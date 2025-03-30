@@ -2,12 +2,12 @@
 
 A Discord bot for competitive osu! challenges with automatic score tracking.
 
-## Features :sparkles:
-- Create 1v1 matches (std/taiko/ctb/mania)
-- Auto-extract difficulties from .osz files
-- Parse .osr replays for scores/accuracy
-- Leaderboard system with wins tracking
-- Interactive difficulty selection
+## ✨ Features
+- 🆚 1v1 challenges (std/taiko/ctb/mania)
+- 🗺️ Auto-detect .osz difficulties
+- 📊 Replay (.osr) analysis
+- 🏆 Persistent leaderboard
+- 🎚️ Interactive menus
 
 ## Setup :tools:
 1. Install requirements:
@@ -36,7 +36,7 @@ A Discord bot for competitive osu! challenges with automatic score tracking.
 
 ### **Method 1: Standard Bot Invite**
 1. Use this invite link:  
-[Link](https://discord.com/oauth2/authorize?client_id=1355925868563660911)
+   `https://discord.com/api/oauth2/authorize?client_id=1355925868563660911&permissions=274878032960&scope=bot%20applications.commands`  
 
   
 ### **Method 2: Internal App Integration**
