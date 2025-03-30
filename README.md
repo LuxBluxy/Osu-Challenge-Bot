@@ -30,7 +30,7 @@ A Discord bot for competitive osu! challenges with automatic score tracking.
 
 ### !challenge @user [std/taiko/ctb/mania] - Start a 1v1 match
 ### !wins [@user] - Check player victories  
-### !leaderboard - Show top 10 rankings
+### !leaderboard - Show top 10 rankings of the current server
 
 ## :mobile_phone: Application Installation Guide
 
