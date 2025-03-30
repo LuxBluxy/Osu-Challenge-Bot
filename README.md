@@ -1,1 +1,3 @@
-# Taiko-discord-bot
+## Taiko-discord-bot
+
+# WIP
