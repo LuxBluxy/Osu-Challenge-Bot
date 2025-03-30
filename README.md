@@ -50,13 +50,6 @@ If you want to add it as an internal application:
 3. **Click Autorize"**  
    ![Step 3](https://i.imgur.com/VaIoOq5.png) 
 
-4. **Grant these permissions**:  
-         yaml
-        - Send Messages
-        - Read Message History  
-        - Attach Files
-        - Manage Messages
-        - Use Slash Commands
 
 ## Support via discord :sos:
 
