@@ -1,4 +1,4 @@
-![KgDex6x](https://github.com/user-attachments/assets/f5b116c0-4dad-4b28-a16b-44db2762932b)# Osu! Challenge Bot :robot::video_game:
+# Osu! Challenge Bot :robot::video_game:
 
 A Discord bot for competitive osu! challenges with automatic score tracking.
 
