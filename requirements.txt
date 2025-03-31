@@ -1,1 +1,1 @@
-pip install discord.py py-lzma
+pip install discord.py osrparse
