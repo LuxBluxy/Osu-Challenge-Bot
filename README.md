@@ -9,7 +9,7 @@ A Discord bot for competitive osu! challenges with automatic score tracking.
 - 🏆 Persistent leaderboard
 - 🎚️ Interactive menus
 
-## Setup :tools:
+## Setup 🛠️
 1. Install requirements:
 2. bash
 3. pip install -r requirements.txt
