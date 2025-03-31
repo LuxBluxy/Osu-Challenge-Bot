@@ -1,4 +1,4 @@
-# Osu! Challenge Bot :robot::video_game:
+![KgDex6x](https://github.com/user-attachments/assets/f5b116c0-4dad-4b28-a16b-44db2762932b)# Osu! Challenge Bot :robot::video_game:
 
 A Discord bot for competitive osu! challenges with automatic score tracking.
 
@@ -43,13 +43,13 @@ A Discord bot for competitive osu! challenges with automatic score tracking.
 If you want to add it as an internal application:
 
 1. **Click the bot profile** → **Select add application**  
-   ![Step 1](https://i.imgur.com/V6nUNxI.png) 
+   ![Step 1](https://i.imgur.com/KgDex6x.png) 
 
 2. **Click "Add to my Application"**  
-   ![Step 2](https://i.imgur.com/tdKivnX.png) 
+   ![Step 2](https://i.imgur.com/lo6gpvN.png) 
 
 3. **Click Autorize"**  
-   ![Step 3](https://i.imgur.com/VaIoOq5.png) 
+   ![Step 3](https://i.imgur.com/Ir35ICG.png) 
 
 
 ## Support via discord :sos:
